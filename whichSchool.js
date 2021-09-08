@@ -1,13 +1,11 @@
-func whichSchool()
-
-const age = 13;
+const age = 12;
 
 if (age < 13) {
   console.log(" You go to Elementary School");
 
-if (age >= 13 and age <= 18){
+Elseif (age >= 13 || age <= 18) {
   console.log(" You go to Secondary School");
-} 
-else { 
+ 
+Else { 
   console.log("You go to light house labs");
-}
+}}}
